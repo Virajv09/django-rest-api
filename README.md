@@ -1,4 +1,4 @@
-# Django REST API
+# inventory API
 
 This is a simple Django REST Framework project with CRUD operations.
 
